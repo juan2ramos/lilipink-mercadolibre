@@ -1,0 +1,17 @@
+{
+  "name": "mercadoPago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node handler.js"
+  },
+  "keywords": [],
+  "author": "juan2ramos <juan2ramos@gmail.com> (http://juan2ramos.com)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "node-fetch": "^2.6.0"
+  }
+}
